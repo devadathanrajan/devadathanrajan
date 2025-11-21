@@ -10,9 +10,9 @@
 
 ### 🧠 About Me
 - 🔭 Currently working as an **Associate SDET at Moolya**
-- 🧪 Experienced in **Appium (Android & iOS)** and **TestNG-based automation frameworks**
-- 🌱 Exploring **Python-based automation** and **API Testing**
-- 💬 Ask me about **mobile automation**, **framework design**, or **test architecture**
+<!-- - 🧪 Experienced in **Appium (Android & iOS)** and **TestNG-based automation frameworks**
+ - 🌱 Exploring **Python-based automation** and **API Testing** 
+- 💬 Ask me about **mobile automation**, **framework design**, or **test architecture** -->
 - 🎯 Goal: To design end-to-end test solutions that enhance product quality and release confidence
 - ⚡ Fun fact: I love debugging complex automation issues as much as writing new scripts 😄
 
