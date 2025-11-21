@@ -3,7 +3,7 @@
 <p align="center">
 💼 <b>Associate SDET at Moolya</b><br/>
 💻 <b>Appium | Selenium | TestNG | Java | Python | Maven</b><br/>
-🚀 Passionate about building reliable and scalable test automation frameworks for mobile and web applications.
+<!--🚀 Passionate about building reliable and scalable test automation frameworks for mobile and web applications. -->
 </p>
 
 ---
